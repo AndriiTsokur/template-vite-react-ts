@@ -10,5 +10,5 @@ export default defineConfig({
 			components: '/src/components',
 		},
 	},
-	base: '/github-issues-kanban/',
+	base: '/template-vite-react-ts/',
 });
