@@ -1,7 +1,6 @@
 {
 	"name": "github-issues-kanban",
 	"private": true,
-	"homepage": "https://andriitsokur.github.io/github-issues-kanban/",
 	"version": "0.0.0",
 	"type": "module",
 	"scripts": {
