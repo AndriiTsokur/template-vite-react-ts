@@ -7,8 +7,8 @@ export default defineConfig({
 	plugins: [react()],
 	resolve: {
 		alias: {
-			'@src': path.resolve(__dirname, 'src'),
-			'@components': path.resolve(__dirname, 'src/components'),
+			'@': path.resolve(__dirname, './src/'),
+			components: `${path.resolve(__dirname, './src/components/')}`,
 		},
 	},
 	base: '/template-vite-react-ts/',
